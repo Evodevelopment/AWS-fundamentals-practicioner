@@ -1,7 +1,14 @@
 ### AWS-practicioner
-My notes, scripts, demo configurations files
 
-#### AWS services
+-> Cloud Practicioner AWS
+
+- Resources
+- Networking
+- Security
+- IaaS PaaS
+- Principles of how cloud works
+- discuss with ChatGPT
+- Just do it.
 
 ECS - 
 
@@ -14,4 +21,3 @@ Lambda - reactive type of service
 Amazon Athena - 
 
 Konfiguracni data ulozena v jsonu?
-
