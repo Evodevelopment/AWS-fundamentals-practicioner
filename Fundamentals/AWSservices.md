@@ -129,3 +129,16 @@ Why It's Well-Suited:
 * Simplicity: No need to manage servers, so you can focus on code.
 * AWS Lambda is ideal for these scenarios because it's designed for quick, event-driven tasks that can scale automatically and cost-effectively.
 
+Can you explain what AWS Lambda is and how it differs from traditional server-based computing models?
+
+Certainly! AWS Lambda is a serverless computing service that lets you run code without managing servers. It is event-driven, scales automatically, and you only pay for the time your code runs.
+Key Differences from Traditional Servers:
+* No Server Management: Lambda handles it for you.
+* Automatic Scaling: Lambda scales with the number of events.
+* Pay-as-You-Go: Only pay for the compute time you use.
+* Stateless: Each function execution is independent.
+* Short-lived: Functions have a time limit per execution.
+* Traditional servers, on the other hand, require you to manage the server, handle scaling manually, and pay for server uptime, whether or not you are using it. They are generally stateful and long-lived.
+
+
+Hosting a dynamic website - meaning ?
