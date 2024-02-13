@@ -1,7 +1,5 @@
 ### AWS-practicioner
 
-/ ADD your comments from work
-
 -> Cloud Practicioner AWS
 
 - Resources
