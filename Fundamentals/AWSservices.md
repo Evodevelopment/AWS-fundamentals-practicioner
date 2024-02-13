@@ -142,3 +142,52 @@ Key Differences from Traditional Servers:
 
 
 Hosting a dynamic website - meaning ?
+
+AWS Storage options 
+
+Active Storage (Direct Storage)
+- Like your recent emails, readily accesible
+- Ideal for day to day storage
+- Amazon S3 - designed for ease of access and management
+    - Simple Storage Service
+    - Highly scalable, durable and secure
+    - Wide variety of use cases like website hosting, data backup, and content distribution 
+    - Or Real-time big data analytics 
+    - S3 design aims at maximising benefits of scale and passing those benefits to customers
+    - Object storage service
+    - Used for storing and retrieving any amount data, anytime, from anywhere
+    - Can get pricey
+
+Archival Storage
+- Like old emails, accessed infrequently
+- Ideal for long term data retention
+- AWS Glacier - cost effective for long-term storage
+    - Used for data archiving and long term backup
+    - Long-term, low cost, and secure cloud storage service
+    - Cost effective  solution for data archiving and backup
+
+AWS Storage Services
+- Amazon S3
+- AWS Elastic Block Storage
+- Elastic File System
+- Am. Storage Gateway
+- FSx (Shared File Storage)
+
+
+Understanding database types
+
+- Relational Databas (RDS)
+    - Like a well organised bookshelf
+    - Structured data with clear relations
+    - Ideal for traditional applications 
+    - AWS RDS the sturdy bookshelf of the digital world
+    - Ex. Financial systems, e-commerce platforms 
+
+- NoSQL Databases (DynamoDB)
+    - Like a dynamic magazine rack
+    - Flexible schema for unstructured data
+    - Ideal for mobile apps, IoT, gaming
+    - AWS DynamoDB : adaptable and ready for every changing content
+        - Uses a key-value model
+        - A key maps to a value
+    - Ex. Real time bidding systems, leaderboards for gaming
