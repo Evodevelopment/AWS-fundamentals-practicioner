@@ -6,6 +6,8 @@
 - Networking
 - Security
 - IaaS PaaS
+
+
 - Principles of how cloud works
 - discuss with ChatGPT
 - Just do it.
