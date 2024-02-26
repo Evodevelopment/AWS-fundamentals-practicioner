@@ -23,3 +23,15 @@ Lambda - reactive type of service
 Amazon Athena - 
 
 Konfiguracni data ulozena v jsonu?
+
+
+Projekt Jirka:
+
+Aws - Jirka Brichta
+- s3
+- Databaze?
+- Rdms
+- Kinesis 
+- Mermaid graphs :-)
+
+Pristro, humodity , c02, svetelnost etc.
