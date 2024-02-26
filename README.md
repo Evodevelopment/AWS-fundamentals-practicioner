@@ -1,5 +1,21 @@
 ### AWS-practicioner
 
+
+AWS - Practice makes perfect
+
+Applajovat se na AWS cloud do USA
+A Nizozemi
+
+Test AWS
+
+V google docs
+
+IAM:
+		Lecture 14 IAM Introduction: Users, Groups, Policies 
+Which of the following is an IAM Security Tool? musim upravit.
+		Lecture 28 IAM Security Tools
+
+
 -> Cloud Practicioner AWS
 
 - Resources
