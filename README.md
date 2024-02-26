@@ -1,6 +1,13 @@
 ### AWS-practicioner
 
 
+Service
+
+AWS Migration App - central location to discover, access, plan, and track your migration and modernization
+
+AWS Fault Injection Simulator - 
+
+
 AWS - Practice makes perfect
 
 Applajovat se na AWS cloud do USA
