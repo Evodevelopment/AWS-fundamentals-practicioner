@@ -7,6 +7,16 @@
 - Security
 - IaaS PaaS
 
+- Pochopit principy fungovani  Cloudu
+
+
+Certifikaci udělat v certifikačním centru.
+
+
+Cloud Practicioner ->  Developer 
+
+Cloud Practicioner -> SysOps Administrator
+
 
 - Principles of how cloud works
 - discuss with ChatGPT
