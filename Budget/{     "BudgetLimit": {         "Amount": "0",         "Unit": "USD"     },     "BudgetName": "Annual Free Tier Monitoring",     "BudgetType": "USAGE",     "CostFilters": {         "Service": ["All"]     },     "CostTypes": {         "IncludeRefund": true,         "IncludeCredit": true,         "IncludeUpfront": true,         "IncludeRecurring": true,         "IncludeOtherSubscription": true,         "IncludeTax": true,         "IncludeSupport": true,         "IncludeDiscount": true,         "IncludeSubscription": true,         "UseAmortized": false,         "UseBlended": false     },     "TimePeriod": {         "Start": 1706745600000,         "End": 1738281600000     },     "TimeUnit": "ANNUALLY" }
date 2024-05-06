@@ -1,0 +1,30 @@
+
+{
+    "BudgetLimit": {
+        "Amount": "0",
+        "Unit": "USD"
+    },
+    "BudgetName": "Annual Free Tier Monitoring",
+    "BudgetType": "USAGE",
+    "CostFilters": {
+        "Service": ["All"]
+    },
+    "CostTypes": {
+        "IncludeRefund": true,
+        "IncludeCredit": true,
+        "IncludeUpfront": true,
+        "IncludeRecurring": true,
+        "IncludeOtherSubscription": true,
+        "IncludeTax": true,
+        "IncludeSupport": true,
+        "IncludeDiscount": true,
+        "IncludeSubscription": true,
+        "UseAmortized": false,
+        "UseBlended": false
+    },
+    "TimePeriod": {
+        "Start": 1706745600000,
+        "End": 1738281600000
+    },
+    "TimeUnit": "ANNUALLY"
+}
