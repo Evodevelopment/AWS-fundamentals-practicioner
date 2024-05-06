@@ -1,0 +1,29 @@
+{
+    "BudgetLimit": {
+        "Amount": "5000",
+        "Unit": "USD"
+    },
+    "BudgetName": "Quarterly EC2 Spend",
+    "BudgetType": "COST",
+    "CostFilters": {
+        "Service": ["Amazon Elastic Compute Cloud - Compute"]
+    },
+    "CostTypes": {
+        "IncludeRefund": false,
+        "IncludeCredit": false,
+        "IncludeUpfront": false,
+        "IncludeRecurring": true,
+        "IncludeOtherSubscription": false,
+        "IncludeTax": true,
+        "IncludeSupport": true,
+        "IncludeDiscount": true,
+        "IncludeSubscription": true,
+        "UseAmortized": true,
+        "UseBlended": true
+    },
+    "TimePeriod": {
+        "Start": 1706745600000,
+        "End": 1748281600000
+    },
+    "TimeUnit": "QUARTERLY"
+}
