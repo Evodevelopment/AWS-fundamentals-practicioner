@@ -51,5 +51,3 @@
 - **Simplicity**: Eliminates the need to manage servers, focusing on code development.
 
 ---
-
-This revised note aims to provide a more streamlined and structured overview of the AWS platform and its core services, enhancing readability and making it easier to understand. If there’s anything specific you’d like to adjust or add further, just let me know!
