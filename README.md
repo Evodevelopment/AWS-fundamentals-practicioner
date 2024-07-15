@@ -1,5 +1,8 @@
 
 #### Resources
+
+- REVIEW - THE MOST IMPORTANT CHAPETERS AS EC2, MIGRATING - SNOWFLAKE APPLICATIONS, ETC.
+- 
 AWS provides a vast array of resources through services like EC2 for scalable computing power, S3 for storage, and RDS for managed databases. These services allow businesses to deploy, manage, and scale their applications seamlessly, offering both flexibility and reliability.
 
 #### Networking
