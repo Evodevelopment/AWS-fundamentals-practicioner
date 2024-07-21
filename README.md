@@ -5,29 +5,6 @@
 - aws solution library
 - api gateway : https://docs.aws.amazon.com/apigateway/latest/developerguide/welcome.html
 - https://aws.amazon.com/about-aws/global-infrastructure/regions_az/
-- https://www.linkedin.com/pulse/jak-d%C5%AFle%C5%BEitou-roli-v-m%C3%A9-kari%C3%A9%C5%99e-hr%C3%A1l-sport-gabriela-teissing-he7ue/?trackingId=J3cuHmIsBTvv%2FHY4j8M83Q%3D%3D
-
-
-Jako malá jsem hrála tenis, později jsem se na profesionální úrovni věnovala golfu. Změnilo mě to a naučilo spoustu věcí. Zároveň si ale myslím, že nikdy není pozdě, a i když se začnete pravidelně hýbat až ode dneška, stejně vám to přinese nové dovednosti, díky nimž budete v životě úspěšnější. 
-Ráda bych řekla, že mě sport naučil cílevědomosti a odhodlanosti, ale ne, s tím jsem se narodila. Projevuje se to ve mně od dětství. Na tenise jsem měla nesčetněkrát úžeh a na golfu mě jednou honil greenkeeper po hřišti, protože jsem zničila kus greenu, prostě jsem tam vyšlapala díry, tak dlouho jsem tam stála. 
-Ale sport mi dal základ do života. Naučil mě spoustu jiných věcí, díky nimž si myslím, že je extrémně důležité vést ke sportu naše děti, ale pravidelně sportovat i v dospělosti. A rozhodně to nemusí být na profesionální úrovni, aby to z vás udělalo lepšího člověka. 
-
-Jako malá jsem hrála tenis, později jsem se na profesionální úrovni věnovala golfu. Změnilo mě to a naučilo spoustu věcí. Zároveň si ale myslím, že nikdy není pozdě, a i když se začnete pravidelně hýbat až ode dneška, stejně vám to přinese nové dovednosti, díky nimž budete v životě úspěšnější. 
-Ráda bych řekla, že mě sport naučil cílevědomosti a odhodlanosti, ale ne, s tím jsem se narodila. Projevuje se to ve mně od dětství. Na tenise jsem měla nesčetněkrát úžeh a na golfu mě jednou honil greenkeeper po hřišti, protože jsem zničila kus greenu, prostě jsem tam vyšlapala díry, tak dlouho jsem tam stála. 
-Ale sport mi dal základ do života. Naučil mě spoustu jiných věcí, díky nimž si myslím, že je extrémně důležité vést ke sportu naše děti, ale pravidelně sportovat i v dospělosti. A rozhodně to nemusí být na profesionální úrovni, aby to z vás udělalo lepšího člověka. 
-Vstát bez ohledu na počasí 
-Díky sportu jsem dříč, naučil mě každý den vstát nehledě na počasí a den v týdnu a jít na sobě pracovat, znovu a znovu. Také jsem se naučila nevzdávat se.  A jak výhry, tak prohry přijímám s pokorou. Jsem vděčná za konkurenci a snažím se obklopovat lidmi, kteří jsou v tom, co dělají esa, a jsou stejně naladěni jako já. Sport mi dál základ mé životní filozofie. I díky sportu jsem kdo jsem. 
-Bez trpělivosti to nejde 
-Jsem hodně netrpělivá a ve sportu jsem se naučila, že něco zkratkou urychlit nebo nějak obejít se nedá. Třeba umět vyhrát není jednoduché a umět opakovaně vyhrát je ještě daleko těžší. Je třeba bezchybně opakovat pohyb v jakékoliv situaci, být kreativní. Člověk potřebuje umět vyzrát, a to vezme nějaký čas. Pro mě daleko delší než jsem si dokázala kdy představit a než bych chtěla. 
-Když se mi občas svět hroutí pod rukama, říkám si: „Zpět k základům, soustřeď se, zopakuj si, co děláš, kam jdeš a ujasni si, co bude tvůj další, abys byla zpátky na cestě, po které chceš jít.” 
-Smysl pro fair play
-Sport mi dal zdravé sebevědomí a smysl pro fair play. Ve sportu se hraje podle pravidel, která se dodržují. A když je někdo, kdo švindluje, tak se to ví a časem to vyplyne na povrch. Takový člověk je pak předmětem všeobecného opovržení. V byznysu a v práci to tak nezbytně není. Ze začátku jsem byla v šoku, ale časem jsem si to srovnala v hlavě. 
-Zajímám se o lidi, kteří jsou podobní jako já, vydělávají peníze normálním podnikáním a poctivou prací. Ty, co si říkají podnikatelé a prohánějí se drahými auty centrem měst, jsou pravidelně v bulváru, motají se kolem politických stran a přišli k tomu tak, že někoho okradli nebo okrádají stát, neberu vážně. Vůbec nechápu, jak se mohou pyšnit tím, že jsou zloději. Uvědomuji si, že mám velké štěstí a jsem vděčná, že s tím nemusím mít nic společného. 
-Přirozená součást života 
-Přestože už je to nějaký pátek, co jsem pryč z profesionálního sportu, ale jsem zvyklá sportovat celý život. K pohybu se díky tomu nemusím nutit, naopak moje tělo miluje chemické reakce, které se díky sportovnímu výkonu spouštějí, a bez nich funguji jen těžko. 
-Vzhledem k tomu, že trávím většinu dne vsedě, dělám všechno proto, abych měla každý den nějakou fyzickou aktivitu. Pomáhá to nejen mé fyzické stránce a kondici, ale i mé psychice. Mám přitom ráda rozmanitost, takže chodím běhat, cvičit, na kolo, na tenis, na golf, v zimě na lyže a skialpy. 
-Čas strávený s rodinou 
-Samozřejmě vedu ke sportu i svoje děti. Nedělají žádný sport profesionálně, ale mají pohyb rádi a mají ho denně. Sport je součástí jejich života a díky lyžování milují hory a přírodu, a to je fajn. A nejlepší na tom je, že díky sportu máme společný program, který nás všechny baví, můžeme společně trávit čas a sbírat společné zážitky. To je pro mě velmi cenné.
 
 AWS provides a vast array of resources through services like EC2 for scalable computing power, S3 for storage, and RDS for managed databases. These services allow businesses to deploy, manage, and scale their applications seamlessly, offering both flexibility and reliability.
 
